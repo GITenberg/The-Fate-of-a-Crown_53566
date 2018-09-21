@@ -1,5 +1,8 @@
 _repo: The-Fate-of-a-Crown_53566
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53566-h/images/cover.jpg
 creator:
   author:
     agent_name: Baum, L. Frank (Lyman Frank)
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42
     wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53566#The-Fate-of-a-Crown
 gutenberg_issued: '2016-11-21'
 gutenberg_type: Text
 identifiers:
