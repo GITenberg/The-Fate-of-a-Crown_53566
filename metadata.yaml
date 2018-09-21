@@ -1,0 +1,36 @@
+_repo: The-Fate-of-a-Crown_53566
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Staunton, Schuyler
+    - Van Dyne, Edith
+    - Fitzgerald, Hugh
+    - Akers, Floyd
+    - Fitzgerald, Capt. Hugh
+    - Cooke, John Estes
+    - Bancroft, Laura
+    - Metcalf, Suzanne
+    - Baum, Lyman Frank
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: ''
+gutenberg_issued: '2016-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53566'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Revolutions -- Fiction'
+- !lcsh 'Brazil -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Fate of a Crown
+url: http://www.gutenberg.org/ebooks/53566
